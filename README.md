@@ -15,7 +15,7 @@
   ### [Screenshots/Media](#media)
   ---
   ## Installation
-  #### N/A
+  #### Run npm install to setup dependencies then run npm run develop to start up client and server. 
 
   ## Media
   Deployed App: https://mern-book-search001.herokuapp.com/
