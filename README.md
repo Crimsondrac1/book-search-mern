@@ -18,5 +18,9 @@
   #### N/A
 
   ## Media
+  Deployed App: https://mern-book-search001.herokuapp.com/
+
+  Github Repo: https://github.com/Crimsondrac1/book-search-mern
+
   #### ![Screenshot](./screenshot_01.jpg)
   

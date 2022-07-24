@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mern-book-search001.herokuapp.com/",
   "name": "client",
   "version": "0.1.0",
   "private": true,
